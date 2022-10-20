@@ -19,5 +19,8 @@ __Funciones de perdida en cada época__
 
 __Precisión__
 
-<img src="outtrain/Precision.png" width="200">
-
+<p float="left">
+  <img src="outtrain/Precision.png" width="200" />
+  <img src="outtrain/recall.png" width="200" />
+  <img src="outtrain/mAP.png" width="200" />
+</p>
