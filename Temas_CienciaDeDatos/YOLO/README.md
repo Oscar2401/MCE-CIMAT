@@ -17,7 +17,7 @@ __Funciones de perdida en cada época__
 </p>
 
 
-__Precisión__
+__Métricas de evaluación del modelo__
 
 <p float="left">
   <img src="outtrain/Precision.png" width="200" />
