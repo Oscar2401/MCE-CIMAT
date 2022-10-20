@@ -24,3 +24,10 @@ __Métricas de evaluación del modelo__
   <img src="outtrain/recall.png" width="200" />
   <img src="outtrain/mAP.png" width="200" />
 </p>
+
+__Métricas de evaluación del modelo__
+
+<p float="left">
+  <img src="prueba_modelo/prueba_img_2.jpg" width="200" />
+  <img src="prueba_modelo/prueba_img_2_d.jpg" width="200" />
+</p>
