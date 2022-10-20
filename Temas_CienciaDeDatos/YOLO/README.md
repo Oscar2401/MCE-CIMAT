@@ -28,6 +28,6 @@ __Métricas de evaluación del modelo__
 __Métricas de evaluación del modelo__
 
 <p float="left">
-  <img src="prueba_modelo/prueba_img_1.jpg" width="200" />
-  <img src="prueba_modelo/prueba_img_1_detc.jpg" width="200" />
+  <img src="prueba_modelo/prueba_img_1.jpg" width="300" />
+  <img src="prueba_modelo/prueba_img_1_detc.jpg" width="300" />
 </p>
