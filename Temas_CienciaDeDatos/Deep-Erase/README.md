@@ -8,3 +8,8 @@ Ejemplo de los intersectos de las imagenes con los artefactos
   <img src="interseccion_pruebas/interses_prueba3.png" width="200" />
   <img src="interseccion_pruebas/interses_prueba4.png" width="200" />
 </p>
+
+
+Ejemplo de limpieza
+
+<img src="interseccion_pruebas/Deep_Erase_p1.png" width="400" />
