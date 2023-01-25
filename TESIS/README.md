@@ -10,4 +10,21 @@ __Asesor__: Dr. Víctor Muñiz Sánchez
 
 <img src="imagenes/pipeline.png" width="1000" />
 
+## Cronograma
+
+*   __A1__: Preparación y presentación del protocolo de tesis.
+*   __A2__: Etiquetar regiones de texto en los documentos (Roboflow).
+*   __A3__: Entrenar modelo de red neuronal con YOLO v5 para identificación de las regiones requeridas.
+*   __A4__: Extracción (recortes) de regiones de texto en documentos de prueba.
+*   __A5__: Implementar modelo de identificación de texto (CRAFT) en cada región extraída.
+*   __A6__: Recorte y ordenamiento del texto.
+*   __A7__: Entrenar modelos de Deep-Eraser para remover artefactos y reparar el texto dañado.
+*   __A8__: Implementar métodos de preprocesamiento de imágenes en cada recorte.
+*   __A9__: Implementar Tesseract para transcripción de texto de las imágenes preprocesadas.
+*   __A10__: Construcción de la API.
+*   __A11__: Preparación de Cartel.  
+*   __R__: Reportes.
+
+
+<img src="imagenes/cronograma.png" width="1000" />
 
